@@ -1,0 +1,302 @@
+Dec 16 15:27:17 david-X550JK kernel: [11306.264239] mypipe:major number 240
+Dec 16 15:27:17 david-X550JK kernel: [11306.264326] mypipe:inserted module
+Dec 16 15:27:55 david-X550JK kernel: [11344.391854] mypipe:attempting to open 0
+Dec 16 15:28:06 david-X550JK kernel: [11355.430383] mypipe:attempting to open 1
+Dec 16 15:28:06 david-X550JK kernel: [11355.430388] mypipe:opened 1
+Dec 16 15:28:06 david-X550JK kernel: [11355.430396] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.430397] mypipe:read empty 0,0
+Dec 16 15:28:06 david-X550JK kernel: [11355.430399] mypipe:opened 0
+Dec 16 15:28:06 david-X550JK kernel: [11355.431910] mypipe:attempting to write 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.431911] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.431914] mypipe:write 0,99
+Dec 16 15:28:06 david-X550JK kernel: [11355.431915] mypipe:attempting to write 3997
+Dec 16 15:28:06 david-X550JK kernel: [11355.431915] mypipe:full 0,99
+Dec 16 15:28:06 david-X550JK kernel: [11355.431916] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.431918] mypipe:read 99,99
+Dec 16 15:28:06 david-X550JK kernel: [11355.431919] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.431919] mypipe:write 99,98
+Dec 16 15:28:06 david-X550JK kernel: [11355.431920] mypipe:attempting to write 3898
+Dec 16 15:28:06 david-X550JK kernel: [11355.431920] mypipe:full 99,98
+Dec 16 15:28:06 david-X550JK kernel: [11355.431921] mypipe:full 99,98
+Dec 16 15:28:06 david-X550JK kernel: [11355.432052] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432053] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432055] mypipe:read 98,98
+Dec 16 15:28:06 david-X550JK kernel: [11355.432057] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432059] mypipe:write 98,97
+Dec 16 15:28:06 david-X550JK kernel: [11355.432062] mypipe:attempting to write 3799
+Dec 16 15:28:06 david-X550JK kernel: [11355.432063] mypipe:full 98,97
+Dec 16 15:28:06 david-X550JK kernel: [11355.432126] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432127] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432128] mypipe:read 97,97
+Dec 16 15:28:06 david-X550JK kernel: [11355.432130] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432131] mypipe:write 97,96
+Dec 16 15:28:06 david-X550JK kernel: [11355.432131] mypipe:attempting to write 3700
+Dec 16 15:28:06 david-X550JK kernel: [11355.432132] mypipe:full 97,96
+Dec 16 15:28:06 david-X550JK kernel: [11355.432199] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432199] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432201] mypipe:read 96,96
+Dec 16 15:28:06 david-X550JK kernel: [11355.432202] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432203] mypipe:write 96,95
+Dec 16 15:28:06 david-X550JK kernel: [11355.432204] mypipe:attempting to write 3601
+Dec 16 15:28:06 david-X550JK kernel: [11355.432204] mypipe:full 96,95
+Dec 16 15:28:06 david-X550JK kernel: [11355.432241] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432241] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432243] mypipe:read 95,95
+Dec 16 15:28:06 david-X550JK kernel: [11355.432244] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432246] mypipe:write 95,94
+Dec 16 15:28:06 david-X550JK kernel: [11355.432246] mypipe:attempting to write 3502
+Dec 16 15:28:06 david-X550JK kernel: [11355.432247] mypipe:full 95,94
+Dec 16 15:28:06 david-X550JK kernel: [11355.432282] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432283] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432284] mypipe:read 94,94
+Dec 16 15:28:06 david-X550JK kernel: [11355.432285] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432286] mypipe:write 94,93
+Dec 16 15:28:06 david-X550JK kernel: [11355.432287] mypipe:attempting to write 3403
+Dec 16 15:28:06 david-X550JK kernel: [11355.432288] mypipe:full 94,93
+Dec 16 15:28:06 david-X550JK kernel: [11355.432321] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432321] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432322] mypipe:read 93,93
+Dec 16 15:28:06 david-X550JK kernel: [11355.432324] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432325] mypipe:write 93,92
+Dec 16 15:28:06 david-X550JK kernel: [11355.432326] mypipe:attempting to write 3304
+Dec 16 15:28:06 david-X550JK kernel: [11355.432326] mypipe:full 93,92
+Dec 16 15:28:06 david-X550JK kernel: [11355.432361] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432361] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432363] mypipe:read 92,92
+Dec 16 15:28:06 david-X550JK kernel: [11355.432364] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432365] mypipe:write 92,91
+Dec 16 15:28:06 david-X550JK kernel: [11355.432366] mypipe:attempting to write 3205
+Dec 16 15:28:06 david-X550JK kernel: [11355.432366] mypipe:full 92,91
+Dec 16 15:28:06 david-X550JK kernel: [11355.432402] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432403] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432404] mypipe:read 91,91
+Dec 16 15:28:06 david-X550JK kernel: [11355.432405] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432406] mypipe:write 91,90
+Dec 16 15:28:06 david-X550JK kernel: [11355.432407] mypipe:attempting to write 3106
+Dec 16 15:28:06 david-X550JK kernel: [11355.432408] mypipe:full 91,90
+Dec 16 15:28:06 david-X550JK kernel: [11355.432445] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432446] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432447] mypipe:read 90,90
+Dec 16 15:28:06 david-X550JK kernel: [11355.432449] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432450] mypipe:write 90,89
+Dec 16 15:28:06 david-X550JK kernel: [11355.432450] mypipe:attempting to write 3007
+Dec 16 15:28:06 david-X550JK kernel: [11355.432451] mypipe:full 90,89
+Dec 16 15:28:06 david-X550JK kernel: [11355.432486] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432486] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432488] mypipe:read 89,89
+Dec 16 15:28:06 david-X550JK kernel: [11355.432489] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432490] mypipe:write 89,88
+Dec 16 15:28:06 david-X550JK kernel: [11355.432491] mypipe:attempting to write 2908
+Dec 16 15:28:06 david-X550JK kernel: [11355.432492] mypipe:full 89,88
+Dec 16 15:28:06 david-X550JK kernel: [11355.432526] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432526] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432528] mypipe:read 88,88
+Dec 16 15:28:06 david-X550JK kernel: [11355.432529] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432530] mypipe:write 88,87
+Dec 16 15:28:06 david-X550JK kernel: [11355.432531] mypipe:attempting to write 2809
+Dec 16 15:28:06 david-X550JK kernel: [11355.432531] mypipe:full 88,87
+Dec 16 15:28:06 david-X550JK kernel: [11355.432572] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432573] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432575] mypipe:read 87,87
+Dec 16 15:28:06 david-X550JK kernel: [11355.432576] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432577] mypipe:write 87,86
+Dec 16 15:28:06 david-X550JK kernel: [11355.432579] mypipe:attempting to write 2710
+Dec 16 15:28:06 david-X550JK kernel: [11355.432579] mypipe:full 87,86
+Dec 16 15:28:06 david-X550JK kernel: [11355.432632] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432633] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432634] mypipe:read 86,86
+Dec 16 15:28:06 david-X550JK kernel: [11355.432636] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432638] mypipe:write 86,85
+Dec 16 15:28:06 david-X550JK kernel: [11355.432640] mypipe:attempting to write 2611
+Dec 16 15:28:06 david-X550JK kernel: [11355.432640] mypipe:full 86,85
+Dec 16 15:28:06 david-X550JK kernel: [11355.432682] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432683] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432684] mypipe:read 85,85
+Dec 16 15:28:06 david-X550JK kernel: [11355.432685] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432686] mypipe:write 85,84
+Dec 16 15:28:06 david-X550JK kernel: [11355.432687] mypipe:attempting to write 2512
+Dec 16 15:28:06 david-X550JK kernel: [11355.432688] mypipe:full 85,84
+Dec 16 15:28:06 david-X550JK kernel: [11355.432722] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432722] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432723] mypipe:read 84,84
+Dec 16 15:28:06 david-X550JK kernel: [11355.432725] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432726] mypipe:write 84,83
+Dec 16 15:28:06 david-X550JK kernel: [11355.432727] mypipe:attempting to write 2413
+Dec 16 15:28:06 david-X550JK kernel: [11355.432727] mypipe:full 84,83
+Dec 16 15:28:06 david-X550JK kernel: [11355.432764] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432764] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432765] mypipe:read 83,83
+Dec 16 15:28:06 david-X550JK kernel: [11355.432766] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432767] mypipe:write 83,82
+Dec 16 15:28:06 david-X550JK kernel: [11355.432768] mypipe:attempting to write 2314
+Dec 16 15:28:06 david-X550JK kernel: [11355.432768] mypipe:full 83,82
+Dec 16 15:28:06 david-X550JK kernel: [11355.432804] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432805] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432806] mypipe:read 82,82
+Dec 16 15:28:06 david-X550JK kernel: [11355.432807] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432808] mypipe:write 82,81
+Dec 16 15:28:06 david-X550JK kernel: [11355.432808] mypipe:attempting to write 2215
+Dec 16 15:28:06 david-X550JK kernel: [11355.432809] mypipe:full 82,81
+Dec 16 15:28:06 david-X550JK kernel: [11355.432847] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432847] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432848] mypipe:read 81,81
+Dec 16 15:28:06 david-X550JK kernel: [11355.432849] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432850] mypipe:write 81,80
+Dec 16 15:28:06 david-X550JK kernel: [11355.432851] mypipe:attempting to write 2116
+Dec 16 15:28:06 david-X550JK kernel: [11355.432852] mypipe:full 81,80
+Dec 16 15:28:06 david-X550JK kernel: [11355.432888] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432888] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432889] mypipe:read 80,80
+Dec 16 15:28:06 david-X550JK kernel: [11355.432890] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432891] mypipe:write 80,79
+Dec 16 15:28:06 david-X550JK kernel: [11355.432892] mypipe:attempting to write 2017
+Dec 16 15:28:06 david-X550JK kernel: [11355.432893] mypipe:full 80,79
+Dec 16 15:28:06 david-X550JK kernel: [11355.432931] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432932] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432933] mypipe:read 79,79
+Dec 16 15:28:06 david-X550JK kernel: [11355.432934] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432935] mypipe:write 79,78
+Dec 16 15:28:06 david-X550JK kernel: [11355.432936] mypipe:attempting to write 1918
+Dec 16 15:28:06 david-X550JK kernel: [11355.432936] mypipe:full 79,78
+Dec 16 15:28:06 david-X550JK kernel: [11355.432972] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.432972] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432973] mypipe:read 78,78
+Dec 16 15:28:06 david-X550JK kernel: [11355.432974] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.432975] mypipe:write 78,77
+Dec 16 15:28:06 david-X550JK kernel: [11355.432976] mypipe:attempting to write 1819
+Dec 16 15:28:06 david-X550JK kernel: [11355.432976] mypipe:full 78,77
+Dec 16 15:28:06 david-X550JK kernel: [11355.433013] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433014] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433014] mypipe:read 77,77
+Dec 16 15:28:06 david-X550JK kernel: [11355.433015] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433016] mypipe:write 77,76
+Dec 16 15:28:06 david-X550JK kernel: [11355.433017] mypipe:attempting to write 1720
+Dec 16 15:28:06 david-X550JK kernel: [11355.433018] mypipe:full 77,76
+Dec 16 15:28:06 david-X550JK kernel: [11355.433053] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433054] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433055] mypipe:read 76,76
+Dec 16 15:28:06 david-X550JK kernel: [11355.433056] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433057] mypipe:write 76,75
+Dec 16 15:28:06 david-X550JK kernel: [11355.433057] mypipe:attempting to write 1621
+Dec 16 15:28:06 david-X550JK kernel: [11355.433058] mypipe:full 76,75
+Dec 16 15:28:06 david-X550JK kernel: [11355.433096] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433097] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433098] mypipe:read 75,75
+Dec 16 15:28:06 david-X550JK kernel: [11355.433099] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433100] mypipe:write 75,74
+Dec 16 15:28:06 david-X550JK kernel: [11355.433101] mypipe:attempting to write 1522
+Dec 16 15:28:06 david-X550JK kernel: [11355.433101] mypipe:full 75,74
+Dec 16 15:28:06 david-X550JK kernel: [11355.433138] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433138] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433139] mypipe:read 74,74
+Dec 16 15:28:06 david-X550JK kernel: [11355.433140] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433141] mypipe:write 74,73
+Dec 16 15:28:06 david-X550JK kernel: [11355.433142] mypipe:attempting to write 1423
+Dec 16 15:28:06 david-X550JK kernel: [11355.433143] mypipe:full 74,73
+Dec 16 15:28:06 david-X550JK kernel: [11355.433181] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433181] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433182] mypipe:read 73,73
+Dec 16 15:28:06 david-X550JK kernel: [11355.433183] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433185] mypipe:write 73,72
+Dec 16 15:28:06 david-X550JK kernel: [11355.433186] mypipe:attempting to write 1324
+Dec 16 15:28:06 david-X550JK kernel: [11355.433186] mypipe:full 73,72
+Dec 16 15:28:06 david-X550JK kernel: [11355.433220] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433220] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433222] mypipe:read 72,72
+Dec 16 15:28:06 david-X550JK kernel: [11355.433223] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433224] mypipe:write 72,71
+Dec 16 15:28:06 david-X550JK kernel: [11355.433224] mypipe:attempting to write 1225
+Dec 16 15:28:06 david-X550JK kernel: [11355.433225] mypipe:full 72,71
+Dec 16 15:28:06 david-X550JK kernel: [11355.433261] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433262] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433263] mypipe:read 71,71
+Dec 16 15:28:06 david-X550JK kernel: [11355.433264] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433265] mypipe:write 71,70
+Dec 16 15:28:06 david-X550JK kernel: [11355.433266] mypipe:attempting to write 1126
+Dec 16 15:28:06 david-X550JK kernel: [11355.433266] mypipe:full 71,70
+Dec 16 15:28:06 david-X550JK kernel: [11355.433303] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433304] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433305] mypipe:read 70,70
+Dec 16 15:28:06 david-X550JK kernel: [11355.433306] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433307] mypipe:write 70,69
+Dec 16 15:28:06 david-X550JK kernel: [11355.433308] mypipe:attempting to write 1027
+Dec 16 15:28:06 david-X550JK kernel: [11355.433309] mypipe:full 70,69
+Dec 16 15:28:06 david-X550JK kernel: [11355.433346] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433346] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433347] mypipe:read 69,69
+Dec 16 15:28:06 david-X550JK kernel: [11355.433348] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433349] mypipe:write 69,68
+Dec 16 15:28:06 david-X550JK kernel: [11355.433350] mypipe:attempting to write 928
+Dec 16 15:28:06 david-X550JK kernel: [11355.433351] mypipe:full 69,68
+Dec 16 15:28:06 david-X550JK kernel: [11355.433388] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433389] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433390] mypipe:read 68,68
+Dec 16 15:28:06 david-X550JK kernel: [11355.433391] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433392] mypipe:write 68,67
+Dec 16 15:28:06 david-X550JK kernel: [11355.433392] mypipe:attempting to write 829
+Dec 16 15:28:06 david-X550JK kernel: [11355.433393] mypipe:full 68,67
+Dec 16 15:28:06 david-X550JK kernel: [11355.433430] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433431] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433432] mypipe:read 67,67
+Dec 16 15:28:06 david-X550JK kernel: [11355.433433] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433434] mypipe:write 67,66
+Dec 16 15:28:06 david-X550JK kernel: [11355.433434] mypipe:attempting to write 730
+Dec 16 15:28:06 david-X550JK kernel: [11355.433435] mypipe:full 67,66
+Dec 16 15:28:06 david-X550JK kernel: [11355.433468] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433468] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433469] mypipe:read 66,66
+Dec 16 15:28:06 david-X550JK kernel: [11355.433470] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433471] mypipe:write 66,65
+Dec 16 15:28:06 david-X550JK kernel: [11355.433472] mypipe:attempting to write 631
+Dec 16 15:28:06 david-X550JK kernel: [11355.433472] mypipe:full 66,65
+Dec 16 15:28:06 david-X550JK kernel: [11355.433503] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433503] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433504] mypipe:read 65,65
+Dec 16 15:28:06 david-X550JK kernel: [11355.433505] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433506] mypipe:write 65,64
+Dec 16 15:28:06 david-X550JK kernel: [11355.433507] mypipe:attempting to write 532
+Dec 16 15:28:06 david-X550JK kernel: [11355.433507] mypipe:full 65,64
+Dec 16 15:28:06 david-X550JK kernel: [11355.433533] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433533] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433534] mypipe:read 64,64
+Dec 16 15:28:06 david-X550JK kernel: [11355.433535] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433536] mypipe:write 64,63
+Dec 16 15:28:06 david-X550JK kernel: [11355.433537] mypipe:attempting to write 433
+Dec 16 15:28:06 david-X550JK kernel: [11355.433537] mypipe:full 64,63
+Dec 16 15:28:06 david-X550JK kernel: [11355.433566] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433566] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433567] mypipe:read 63,63
+Dec 16 15:28:06 david-X550JK kernel: [11355.433568] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433569] mypipe:write 63,62
+Dec 16 15:28:06 david-X550JK kernel: [11355.433570] mypipe:attempting to write 334
+Dec 16 15:28:06 david-X550JK kernel: [11355.433571] mypipe:full 63,62
+Dec 16 15:28:06 david-X550JK kernel: [11355.433597] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433597] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433598] mypipe:read 62,62
+Dec 16 15:28:06 david-X550JK kernel: [11355.433599] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433600] mypipe:write 62,61
+Dec 16 15:28:06 david-X550JK kernel: [11355.433601] mypipe:attempting to write 235
+Dec 16 15:28:06 david-X550JK kernel: [11355.433601] mypipe:full 62,61
+Dec 16 15:28:06 david-X550JK kernel: [11355.433630] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433630] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433631] mypipe:read 61,61
+Dec 16 15:28:06 david-X550JK kernel: [11355.433632] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433633] mypipe:write 61,60
+Dec 16 15:28:06 david-X550JK kernel: [11355.433633] mypipe:attempting to write 136
+Dec 16 15:28:06 david-X550JK kernel: [11355.433634] mypipe:full 61,60
+Dec 16 15:28:06 david-X550JK kernel: [11355.433658] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433658] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433659] mypipe:read 60,60
+Dec 16 15:28:06 david-X550JK kernel: [11355.433660] mypipe:actually write 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433661] mypipe:write 60,59
+Dec 16 15:28:06 david-X550JK kernel: [11355.433662] mypipe:attempting to write 37
+Dec 16 15:28:06 david-X550JK kernel: [11355.433662] mypipe:full 60,59
+Dec 16 15:28:06 david-X550JK kernel: [11355.433688] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433689] mypipe:actually read 99
+Dec 16 15:28:06 david-X550JK kernel: [11355.433690] mypipe:read 59,59
+Dec 16 15:28:06 david-X550JK kernel: [11355.433691] mypipe:actually write 37
+Dec 16 15:28:06 david-X550JK kernel: [11355.433691] mypipe:write 59,96
+Dec 16 15:28:06 david-X550JK kernel: [11355.433731] mypipe:attempting to read 4096
+Dec 16 15:28:06 david-X550JK kernel: [11355.433732] mypipe:actually read 37
+Dec 16 15:28:06 david-X550JK kernel: [11355.433733] mypipe:read 96,96
+
