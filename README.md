@@ -1,5 +1,5 @@
-# linux-pipeline-driver
-Course project for operating systems which replicates builtin pipelines.
+# linux-pipe-driver
+Course project for operating systems which replicates builtin pipes.
 It is a Linux driver which, when installed, will manage two device files `/dev/mypipe/mypipe_in` and `/dev/mypipe/mypipe_out`.
 One can write to `/dev/mypipe/mypipe_in` and read the same data from `/dev/mypipe/mypipe_in`.
 
